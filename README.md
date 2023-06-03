@@ -2,6 +2,8 @@
 
 Welcome to my profile!
 
+Please check my personal website: https://waynewu0526.github.io/
+
 ✨I got my bachelor's degree in engineering from Beijing University of Chemical Technology.
 
 🔭 I'm now studying for a master's degree at Beijing Institute of Technology
